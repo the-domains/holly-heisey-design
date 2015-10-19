@@ -1,7 +1,8 @@
 name: Holly Heisey Design
 favicon: null
-layout_spectrum: 0.73966
+layout_spectrum: null
 typography_spectrum: null
+title: Holly Heisey Design
 cta:
   domain: null
   bucket: null
@@ -15,14 +16,9 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#717171'
-    - '#d73f20'
-    - '#68eeff'
-  brandStrength: 0.5
-  lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandColors: []
+  brandStrength: null
+  lightness: null
+  saturation: null
+  rhythmicContrast: null
 purpose: []
